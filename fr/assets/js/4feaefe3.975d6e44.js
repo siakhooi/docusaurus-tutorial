@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_tutorial=self.webpackChunkdocusaurus_tutorial||[]).push([[4016],{5043:function(u){u.exports=JSON.parse('{"allTagsPath":"/docusaurus-tutorial/fr/blog/tags","slug":"/docusaurus-tutorial/fr/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/docusaurus-tutorial/fr/blog/tags/docusaurus"}')}}]);
